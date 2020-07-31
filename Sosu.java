@@ -1,3 +1,5 @@
+//２～入力した値までの素数を出力するコードです。
+
 import java.util.*;
 
 public class Sosu{
